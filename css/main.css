@@ -1,1 +1,7 @@
 /* Inserta tu código aqui */
+
+/*cabecera*/
+.linea{
+	border-bottom: 5px solid black;
+	width: 70px;
+}
